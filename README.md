@@ -1,0 +1,2 @@
+# OrangeHRM
+Manual testing project
